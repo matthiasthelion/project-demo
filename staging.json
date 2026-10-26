@@ -1,12 +1,12 @@
 {
   "moi_truong":     "staging",
   "nhanh":          "staging",
-  "commit":         "a08ee8fb51ad250efea3086ad51f024ea4f2c83d",
-  "commit_ngan":    "a08ee8f",
+  "commit":         "7dedd15248e7a33c957e3db52ecd8df83090713c",
+  "commit_ngan":    "7dedd15",
   "nhan_phien_ban": "snapshot",
   "cong":           "8101",
   "nguoi_day":      "matthiasthelion",
-  "thoi_diem":      "26/10/2026 19:10:28",
-  "thoi_diem_iso":  "2026-10-26T12:10:28Z",
-  "link_run":       "https://github.com/matthiasthelion/project-demo/actions/runs/40320330791"
+  "thoi_diem":      "26/10/2026 19:53:48",
+  "thoi_diem_iso":  "2026-10-26T12:53:48Z",
+  "link_run":       "https://github.com/matthiasthelion/project-demo/actions/runs/40325938168"
 }
